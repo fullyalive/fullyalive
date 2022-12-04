@@ -14,6 +14,7 @@
 ### Learning by doing
 <div style="display: flex;">
 <img src="https://user-images.githubusercontent.com/29336686/205490549-4ab00be0-0f25-421a-acf4-5a3d4f23c705.svg" style="width:32px; height:32px;" />
+<img src="https://user-images.githubusercontent.com/29336686/205492615-a97e8d5e-bd3c-4286-a3f4-78bff5b6e74f.svg" style="width:32px; height:32px;" />
 <img src="https://user-images.githubusercontent.com/29336686/205490403-efffbfc0-fecb-4094-b111-0356c03faf3f.svg" style="width:32px; height:32px;" />
 <img src="https://user-images.githubusercontent.com/29336686/205490563-a83c87f6-9c6a-4959-8ec7-90c7d320347b.svg" style="width:32px; height:32px;" />
 <img src="https://user-images.githubusercontent.com/29336686/205490594-9daa3ca2-06a7-40e7-bebe-f1ab96b5352c.svg" style="width:32px; height:32px;" />
@@ -26,3 +27,5 @@
 <img src="https://user-images.githubusercontent.com/29336686/205490479-d7d5e7c8-e587-4403-8c7a-85a538ba12da.svg" style="width:32px; height:32px;" />
 </div>
 
+### Top Langs Info
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullyalive&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
