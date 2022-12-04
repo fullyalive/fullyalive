@@ -9,6 +9,11 @@
 ### Job Experience
 - [21.09 ~ Present] Build service for self-employed people at <a href="https://www.naverfincorp.com/main" target="_blank">NAVER FINANCIAL</a>
 - [19.06 ~ 21.05] CardCuration Service PM at <a href="https://www.banksalad.com/" target="_blank">banksalad</a>
+- [16.06 ~ 17.03] Run startup which 
+
+
+### Education
+- Graduated from Sogang University as Cum laude | B.A in Business Administration, Art & Technology
 
 
 ### Learning by doing
