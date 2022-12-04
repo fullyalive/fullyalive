@@ -10,10 +10,11 @@
 <br />
 
 
-### Job Experience
-- [21.09 ~ Present] Build service for self-employed people at <a href="https://www.naverfincorp.com/main" target="_blank">NAVER FINANCIAL</a>
-- [19.06 ~ 21.05] CardCuration Service PM at <a href="https://www.banksalad.com/" target="_blank">banksalad</a>
-- [16.06 ~ 17.03] Run startup which 
+### Product Experience
+- `[21.09 ~ Present]` Build service for self-employed people at <a href="https://www.naverfincorp.com/main" target="_blank">NAVER FINANCIAL</a>
+- `[19.06 ~ 21.05]` CardCuration Service PM at <a href="https://www.banksalad.com/" target="_blank">banksalad</a>
+- `[18.06 ~ 19.04]` Launched a question community for programming beginners (A.K.A Paid Stack Overflow) and provided offline clone-coding lectures
+- `[16.06 ~ 17.03]` Launched an O2O startup that provided discounts from stuidos, restaurants, gyms for university students
 
 <br />
 
